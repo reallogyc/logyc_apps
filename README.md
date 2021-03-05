@@ -1,1 +1,0 @@
-# logyc_apps
